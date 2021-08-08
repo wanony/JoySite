@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoy_site=self.webpackChunkjoy_site||[]).push([[823],{3630:function(e){e.exports=JSON.parse('{"allTagsPath":"/JoySite/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/JoySite/blog/tags/facebook"}')}}]);

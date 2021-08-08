@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoy_site=self.webpackChunkjoy_site||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/JoySite/blog/welcome"},{"title":"Hello","permalink":"/JoySite/blog/hello-world"},{"title":"Hola","permalink":"/JoySite/blog/hola"}]}')}}]);

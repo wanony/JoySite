@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoy_site=self.webpackChunkjoy_site||[]).push([[504],{6899:function(a){a.exports=JSON.parse('{"allTagsPath":"/JoySite/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/JoySite/blog/tags/hola"}')}}]);

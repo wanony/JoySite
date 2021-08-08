@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoy_site=self.webpackChunkjoy_site||[]).push([[543],{6051:function(e){e.exports=JSON.parse('{"permalink":"/JoySite/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

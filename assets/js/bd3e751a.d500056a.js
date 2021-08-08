@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjoy_site=self.webpackChunkjoy_site||[]).push([[459],{9876:function(s){s.exports=JSON.parse('{"allTagsPath":"/JoySite/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/JoySite/blog/tags/docusaurus"}')}}]);
